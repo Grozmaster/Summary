@@ -24,14 +24,16 @@ main {
     flex-direction: row-reverse;
     justify-content: left;
     gap: 88px;
-    margin: 10px auto ;
+    margin: 10px auto;
     max-width: 1200px;
     background: #FFFFFF;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
 
 .main__inner {
-    padding: 100px 220px 110px 0px;
+    width: 530px;
+    padding: 100px  0;
+
 }
 
 .aboutme {
@@ -79,6 +81,7 @@ main {
     }
 
     li {
+       
         list-style-position: inside;
         font-weight: 700;
         font-size: 14px;
@@ -129,6 +132,7 @@ main {
         list-style: disc;
         list-style-position: inside;
     }
+   
 }
 
 .education {

@@ -31,7 +31,8 @@ main {
 }
 
 .main__inner {
-  padding: 100px 220px 110px 0px;
+  width: 530px;
+  padding: 100px  0;
 }
 
 .aboutme h3 {
